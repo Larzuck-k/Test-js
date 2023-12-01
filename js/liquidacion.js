@@ -1,0 +1,1 @@
+alert("Liquidación con exito");

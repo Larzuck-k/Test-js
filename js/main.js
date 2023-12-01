@@ -1,0 +1,1 @@
+log("Se ha cargado la página")
